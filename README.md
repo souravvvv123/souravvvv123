@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋 I am Sourav Chakraborty
+
 🌱 I’m currently interested in Offensive Security 
+
 👯 I’m looking to collaborate on Application Security Projects
+
 💬 Ask me about Application Security
+
 📫 Reach out to me on: https://www.linkedin.com/in/sourav-chakraborty-a6b2b9224/
+
